@@ -1,0 +1,1 @@
+<?php include TEMPLATEPATH . $module . 'index.php'; ?>

@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS `users` (
+	  `rowid` bigint(20) NOT NULL AUTO_INCREMENT,
+	  `id` char(36) NOT NULL,
+  `firstname` varchar(100) DEFAULT NULL,
+  `lastname` varchar(100) DEFAULT NULL,
+  `dob` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `phone` varchar(150) DEFAULT NULL,
+  `mobile` varchar(150) DEFAULT NULL,
+  `skype` varchar(150) DEFAULT NULL,
+  `address` varchar(255) DEFAULT NULL,
+  `city` varchar(100) DEFAULT NULL,
+  `state` varchar(100) DEFAULT NULL,
+  `zipcode` varchar(10) DEFAULT NULL,
+  `country` varchar(100) DEFAULT NULL,
+  `date_entered`  datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `date_modified`  datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `modified_user_id`  bigint(20) NOT NULL DEFAULT '0',
+  `created_by`   bigint(20) NOT NULL DEFAULT '0',
+  `deleted` tinyint(1) DEFAULT '0',
+   PRIMARY KEY (`rowid`)
+	) ENGINE=InnoDB DEFAULT CHARSET=utf8;

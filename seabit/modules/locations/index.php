@@ -1,0 +1,1 @@
+<?php include TEMPLATEPATH . 'frontend/index.php'; ?>

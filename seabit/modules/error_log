@@ -1,0 +1,1 @@
+[06-Sep-2016 06:59:49 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/cnor04/public_html/seabit/modules/header.php on line 36

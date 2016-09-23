@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+input[type="text"], input[type="email"], textarea {
+	color: #404040;
+	border: 1px solid #bbb;	
+
+}
+.pimPane #profile-pic h1, .change_employee_title h1 {
+background: #f3f3f3 url(../images/h1-bg.png) left bottom repeat-x;
+color: #5d5d5d;
+border: 1px solid #dedede;
+
+}
+.pimPane div.imageHolder {
+border: 1px solid #DEDEDE;
+}
+.change_employee .toggle {
+background: none no-repeat scroll 95% 50% rgba(0, 0, 0, 0);
+}
+.change_employee .toggle.activated {
+background: none no-repeat scroll 95% 50% rgba(0, 0, 0, 0);
+}
+.change_employee .toggle {
+background: none no-repeat scroll 95% 50% rgba(0, 0, 0, 0);
+}
+#sidebar #sidenav {
+background: #f28c38 url(../images/sidebar-nav-bg.png) repeat-y top right;
+}
+#sidebar #sidenav a {
+color: #fff;
+border-bottom: 1px solid #f19a52;
+}
+#sidebar #sidenav a:hover {
+background-color: #ce6d1d;
+}
+.navbar-inverse {
+	background-color: #F2F2F2 !important;
+	background-image:none !important;
+	border-color:transparent !important;
+	border-bottom: 2px solid #F28C38 !important;	
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	border-color:transparent !important;	
+}
+.navbar-inverse .navbar-nav > li > a {
+	color: #4C4C4C !important;	
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+	background-color: #F28C38 !important;
+	color: #fff !important;
+}
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+	background-color:#F28C38 !important;
+	background-image: none !important;
+	color:#FFF !important;
+}
+.navbar-nav .dropdown-menu {
+background-color: #F28C38;
+}
+.navbar-nav .dropdown-menu > li > a {
+	color:#fff;	
+	border-bottom: 1px solid #f19a52;
+}
+.navbar-nav .dropdown-menu > li > a:hover {
+	background-color: #ce6d1d;	
+	color: #fff;
+}
+.nav > ul > li > ul {
+	background: #d8d8d8;
+}
+/***********************  form css start ***************************************************/
+.label {
+	color: #333;
+}
+.box .inner {
+background: #f7f6f6;
+border: 1px solid #dedede;
+}
+.personalDetails .head h1 {
+background: #f3f3f3 url(../images/h1-bg.png) left bottom repeat-x;
+color: #5d5d5d;
+border: 1px solid #dedede;
+}
+.box .head h1 {
+background: #f3f3f3 url(../images/h1-bg.png) left bottom repeat-x;
+color: #5d5d5d;
+border: 1px solid #dedede;
+}
+form ol {
+border-bottom: 1px solid #dedede;
+}
+
+
+/* Form panel */
+
+.panel-default {
+	border-color: #C35817;
+}
+
+.panel-default > .panel-heading {
+	background-color: #C35817;
+}
+
+.panel-heading .panel-title {
+	color:#fff;
+}
+
+.panel-heading .panel-title {
+	  font-size: 18px;
+	  font-weight: 400;
+}
+
+.alert-danger, .alert-error {
+  color: #b94a48;
+  background-color: #f2dede;
+  border-color: #eed3d7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
