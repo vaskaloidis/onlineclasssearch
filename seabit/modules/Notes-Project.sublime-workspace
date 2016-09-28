@@ -1,0 +1,469 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"style",
+				"stylesheet_link_tag"
+			],
+			[
+				"styleshee",
+				"stylesheet_link_tag"
+			],
+			[
+				"stylesh",
+				"stylesheet"
+			],
+			[
+				"javascri",
+				"javascript_include_tag"
+			],
+			[
+				"alert",
+				"alertMessage"
+			],
+			[
+				"file",
+				"fileExists"
+			],
+			[
+				"real_esc",
+				"mysql_real_escape_string"
+			],
+			[
+				"fea",
+				"featurette-image"
+			],
+			[
+				"mysqli_re",
+				"mysqli_escape_string"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"decryp",
+				"Crypto::Decrypt"
+			],
+			[
+				"crypto",
+				"Crypto::Decrypt"
+			],
+			[
+				"cofee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vasilioskaloidis/Documents/Notes"
+	],
+	"file_history":
+	[
+		"/Users/vasilioskaloidis/Sites/Bootstrap/Knight/index.html",
+		"/Users/vasilioskaloidis/Sites/startbootstrap-agency/img/header-bg.jpg",
+		"/Users/vasilioskaloidis/Sites/startbootstrap-agency/css/agency.css",
+		"/Users/vasilioskaloidis/Sites/rise/template-assets/index.html",
+		"/Users/vasilioskaloidis/Documents/Notes/InventionIdeas.md",
+		"/Users/vasilioskaloidis/Documents/Notes/Linux-Notes.md",
+		"/Users/vasilioskaloidis/Sites/onlineclasssearch/application/controllers/index.php",
+		"/Users/vasilioskaloidis/Sites/startbootstrap-agency/scss/agency.scss",
+		"/Users/vasilioskaloidis/Sites/startbootstrap-agency/scss/_mixins.scss",
+		"/Users/vasilioskaloidis/Sites/startbootstrap-agency/scss/_variables.scss",
+		"/Users/vasilioskaloidis/Documents/Notes/Onlineclasssearch-Notes.md",
+		"/Users/vasilioskaloidis/Sites/rise/template-assets/css/main.css",
+		"/Users/vasilioskaloidis/Sites/rise/template-assets/js/custom.js",
+		"/Users/vasilioskaloidis/Sites/Bootstrap/Knight/js/wow.js",
+		"/Users/vasilioskaloidis/Sites/startbootstrap-agency/js/agency.js",
+		"/Users/vasilioskaloidis/Sites/startbootstrap-agency/css/agency.min.css",
+		"/Users/vasilioskaloidis/Sites/codeigniter/application/config/routes.php",
+		"/Users/vasilioskaloidis/Sites/onlineclasssearch/seabit/modules/css/style.css",
+		"/Users/vasilioskaloidis/Documents/Notes/LAN-Notes.md",
+		"/Users/vasilioskaloidis/Documents/Notes/Meteor-Notes.md",
+		"/Users/vasilioskaloidis/Sites/onlineclasssearch/seabit/modules/index.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/index.php",
+		"/Users/vasilioskaloidis/Sites/onlineclasssearch/seabit/modules/custompage/index.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/projectSections/sections_set_2.php",
+		"/Users/vasilioskaloidis/Documents/Notes/Blue-Helmet.txt",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/etc/config.ini",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/projectSections/sections_set_1.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/projectSections/apelonva-export.php",
+		"/Users/vasilioskaloidis/Documents/Notes/Development-Notes.md",
+		"/Users/vasilioskaloidis/Documents/Notes/Dak-Web-Notes.html",
+		"/Users/vasilioskaloidis/Documents/Notes/Dak-Web-Notes.md",
+		"/Users/vasilioskaloidis/Documents/Notes/Dark-Web-Tor-Notes.md",
+		"/Users/vasilioskaloidis/Documents/Notes/Dark-Cards.md",
+		"/Users/vasilioskaloidis/Documents/Notes/Data-Center.md",
+		"/Users/vasilioskaloidis/Sites/woodburyflea/config.ini",
+		"/Users/vasilioskaloidis/Documents/Notes/Dark-Keys.md",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/interface/main_buttons.php",
+		"/Users/vasilioskaloidis/Documents/Notes/notes.txt",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/projectSections/ocef.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/projectSections/isaac-python-scripts.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/projectSections/applescripts/applescripts.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/css/style.css",
+		"/Users/vasilioskaloidis/Code/Rails/vkaloidis/.gitignore",
+		"/Users/vasilioskaloidis/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vasilioskaloidis/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/vasilioskaloidis/Sites/cocktailchemist/index.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/etc/config.ini",
+		"/Users/vasilioskaloidis/Sites/cocktailchemist/index-backup.php",
+		"/Users/vasilioskaloidis/Sites/bluehelmet/index.html",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/head.php",
+		"/Users/vasilioskaloidis/Sites/cocktailchemist-temp/index.php",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/app/views/layouts/application.html.erb",
+		"/Users/vasilioskaloidis/Documents/Notes/Archive/Ruby-On-Rails-Notes.md",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/app/views/welcome/index.html.erb",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/app/assets/stylesheets/style.css",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/config/routes.rb",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/config/initializers/assets.rb",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/app/assets/javascripts/welcome.js",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/app/assets/stylesheets/welcome.scss",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/app/assets/stylesheets/application.css",
+		"/Users/vasilioskaloidis/Code/Rails/bluehelmet/app/assets/javascripts/application.js",
+		"/Users/vasilioskaloidis/Documents/Notes/Mac-Notes.md",
+		"/Users/vasilioskaloidis/Code/Rails/blue-helmet-software/Gemfile",
+		"/Users/vasilioskaloidis/Code/Rails/blue-helmet-software/app/assets/stylesheets/application.scss",
+		"/Users/vasilioskaloidis/Code/Rails/blue-helmet-software/app/views/layouts/application.html.erb",
+		"/Users/vasilioskaloidis/Sites/Knight/index.html",
+		"/Users/vasilioskaloidis/Code/Rails/blue-helmet-software/app/views/welcome/index.html.erb",
+		"/Users/vasilioskaloidis/Sites/bluehelmet/README",
+		"/Users/vasilioskaloidis/Library/Application Support/Google/Chrome/Default/User StyleSheets",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/tests/acceptance.suite.yml",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/tests/acceptance/HomeCept.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/README.md",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/tests/acceptance/LoginCept.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/index.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/head.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/functions.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/home.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/tests/acceptance/WelcomeCept.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/logout.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/loginAction.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/login.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/foot.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/admin.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/wines.php",
+		"/Applications/MAMP/conf/php7.0.0/php.ini",
+		"/Users/vasilioskaloidis/Documents/Notes/Projects/Tidbits-Development.txt",
+		"/Users/vasilioskaloidis/Documents/Notes/videos.txt",
+		"/Applications/MAMP/conf/php5.5.3/php.ini",
+		"/Applications/MAMP/bin/php/php7.0.0/conf/php.ini",
+		"/Users/vasilioskaloidis/Downloads/Workbook3.csv",
+		"/Users/vasilioskaloidis/Documents/anthem_providers.sql",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/directions.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/contact.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/lib/content/wines.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/wines-list.php",
+		"/Users/vasilioskaloidis/Documents/providers-xml.csv",
+		"/Users/vasilioskaloidis/Code/Rails/blog/app/assets/stylesheets/base/_typography.scss",
+		"/Users/vasilioskaloidis/Code/Rails/blog/app/views/refills/_type_system_slab.html.erb",
+		"/Users/vasilioskaloidis/Code/Rails/blog/app/assets/stylesheets/base/_variables.scss",
+		"/Users/vasilioskaloidis/Code/Rails/blog/base/_variables.scss",
+		"/Users/vasilioskaloidis/Code/Rails/blog/Gemfile",
+		"/Users/vasilioskaloidis/Code/Rails/blog/app/assets/stylesheets/application.scss",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/projectSections/git.php",
+		"/Users/vasilioskaloidis/Code/Rails/blog/app/assets/javascripts/welcome.coffee",
+		"/Users/vasilioskaloidis/Code/Rails/blog/app/views/welcome/index.html.erb",
+		"/Users/vasilioskaloidis/Code/Rails/blog/app/assets/stylesheets/welcome.scss",
+		"/Users/vasilioskaloidis/Code/Rails/blog/app/controllers/welcome_controller.rb",
+		"/Users/vasilioskaloidis/Sites/codeigniter/application/config/config.php",
+		"/Users/vasilioskaloidis/Sites/codeigniter/application/config/database.php",
+		"/Users/vasilioskaloidis/Sites/campusswap/etc/config.ini",
+		"/Users/vasilioskaloidis/Code/Python/historian/historian.py",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/css/style.css",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/forms/modifySectionForm.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/actions/modifySectionAction.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/lib/content/wine_tasting.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/lib/system.php",
+		"/Users/vasilioskaloidis/Sites/athankaloidis/modifySectionAdmin.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/lib/database.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/lib/Config.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/sql/6-30-16.sql",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/lib/content.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/about.php",
+		"/Users/vasilioskaloidis/Sites/bhemvineyard/actions/modifyOptionAction.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/projectSections/campusswap.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/foot.php",
+		"/Users/vasilioskaloidis/Sites/vkaloidis/library/Config.php",
+		"/Users/vasilioskaloidis/Documents/Mac Notes"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/vasilioskaloidis/Sites/onlineclasssearch",
+			"/Users/vasilioskaloidis/Sites/",
+			"/Users/vasilioskaloidis/Code/Rails/bluehelmet/",
+			"/Users/vasilioskaloidis/Sites/bhemvineyard",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"head",
+			"portfolioC",
+			"body {",
+			"background: url",
+			".jpg",
+			"Next",
+			"images/back-bg.jpg",
+			".jpg",
+			"vkaloidis.com",
+			"JavaF",
+			"fx",
+			"/img/",
+			"img/",
+			"\"img/",
+			"ript>\n\n<scr",
+			"})\n",
+			"\n                    ",
+			"                        \n",
+			"You ahve logged-in succesfully!",
+			"alertFailure",
+			";\n",
+			"\t\t\n",
+			"log",
+			"start",
+			"auto",
+			"content",
+			"SELECT",
+			"            if($option['value'] == true){",
+			"                    ",
+			"///////////////////////////////////////////////////////////////////////////////////",
+			"font",
+			"simple",
+			">';\n",
+			"{\n",
+			"body",
+			"theruby",
+			"database",
+			"\"featurette\"",
+			"\"margin-left:350px\" action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\">\n\t\t<input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\">\n\t\t<input type=\"hidden\" name=\"hosted_button_id\" value=\"Y4MN7ERT4WFDG\">\n\t\t<input type=\"image\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif\" border=\"0\" name=\"submit\" alt=\"PayPal - The safer, easier way to pay online!\">\n\t\t<img alt=\"\" border=\"0\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\">\n\t\t</form> -->",
+			"$system::",
+			"\n        <div class=\"col-lg-6\">\n\n            \n        </div>",
+			"           <",
+			"}\n",
+			">\n",
+			"<!--\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"\"row featurette\"",
+			"$system->"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.crypto_error":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Notes-Project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes.php",
+				"Sites/codeigniter/application/config/routes.php"
+			],
+			[
+				"config.ini",
+				"Sites/bhemvineyard/etc/config.ini"
+			],
+			[
+				"main_butt",
+				"Sites/vkaloidis/interface/main_buttons.php"
+			],
+			[
+				"apelon",
+				"Sites/vkaloidis/projectSections/apelonva-export.php"
+			],
+			[
+				"ocef",
+				"Sites/vkaloidis/projectSections/ocef.php"
+			],
+			[
+				"isaac-python",
+				"Sites/vkaloidis/projectSections/isaac-python-scripts.php"
+			],
+			[
+				"style",
+				"Sites/vkaloidis/css/style.css"
+			],
+			[
+				"applescript",
+				"Sites/vkaloidis/projectSections/applescripts/applescripts.php"
+			],
+			[
+				"sections_set_2",
+				"Sites/vkaloidis/projectSections/sections_set_2.php"
+			],
+			[
+				"sections_",
+				"Sites/vkaloidis/projectSections/sections_set_1.php"
+			],
+			[
+				"sections_set",
+				"Sites/vkaloidis/projectSections/sections_set_1.php"
+			],
+			[
+				"assets.rb",
+				"Rails/bluehelmet/config/initializers/assets.rb"
+			],
+			[
+				"routes.",
+				"Rails/bluehelmet/config/routes.rb"
+			],
+			[
+				"logout.php",
+				"Sites/bhemvineyard/logout.php"
+			],
+			[
+				"wines.php",
+				"Sites/bhemvineyard/wines.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 647.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -32,6 +32,21 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     vertical-align: baseline;
 }
 
+html {
+
+}
+body {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    background: url('images/back-bg.jpg') no-repeat top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width:100%;
+    padding: 0;
+    line-height: 25px;
+}
 #bg {
     position: fixed;
     top: -50%;
@@ -48,14 +63,6 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
     margin: auto;
     min-width: 50%;
     min-height: 50%;
-}
-
-html {
-    background: url(images/bg.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
 }
 
 /* HTML5 display-role reset for older browsers */
@@ -600,14 +607,6 @@ h5 {
 h6 {
     font-size: 12px;
     line-height: 12px;
-}
-
-body {
-    font-family: arial,sans-serif;
-    font-size: 13px;
-    repeat: center top;
-    padding: 0;
-    line-height: 25px;
 }
 
 .no-padding {

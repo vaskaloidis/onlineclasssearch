@@ -42,6 +42,9 @@ $route['default_controller'] = "/home/index";
 $route['404_override'] = 'four_zero_four';
 
 
+$route['seo\sitemap\.xml'] = 'seo/sitemap';
+
+
 //Gather the DB connection settings
 include_once APPPATH.'config/database.php'; 
 
