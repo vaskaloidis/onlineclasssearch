@@ -20,10 +20,10 @@
 			<span class="socialicons"><i class="fa fa-twitter"></i></span>
 		</div> -->
 		<div class="footer-icons col-md-4">
-			<span class="socialicons"><img src="<?php echo base_url(); ?>images/google-plus.png" /></span>
-			<span class="socialicons"><img src="<?php echo base_url(); ?>images/-facebook-square.png" /></span>
-			<span class="socialicons"><img src="<?php echo base_url(); ?>images/linkedin.png" /></span>
-			<span class="socialicons"><img src="<?php echo base_url(); ?>images/twitter.png" /></i></span>
+			<span class="socialicons"><img alt="Online Class Search Google Plus" src="<?php echo base_url(); ?>images/google-plus.png" /></span>
+			<span class="socialicons"><img alt="Online Class Search Facebook Square" src="<?php echo base_url(); ?>images/-facebook-square.png" /></span>
+			<span class="socialicons"><img alt="Online Class Search Linked In" src="<?php echo base_url(); ?>images/linkedin.png" /></span>
+			<span class="socialicons"><img alt="Online Class Search Twitter" src="<?php echo base_url(); ?>images/twitter.png" /></i></span>
 		</div>
 
 		<div class="footer-login col-md-2">	</div>

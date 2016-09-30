@@ -5,6 +5,7 @@
         <meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=0">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+        <html lang="en">
 		<?php if ( isset ( $page_metad ) ) { ?>
 		<meta name="description" content="<?php  echo $page_metad ?>"/>
 		<?php } ?>

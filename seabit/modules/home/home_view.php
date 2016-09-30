@@ -24,7 +24,7 @@
 
                       <!---logo-->
                         <!--<div id="logo" class="text-center">
-                            	<img src="<?php echo base_url(); ?>images/logo.png" />
+                            	<img alt="Oneline Class Search Logo" src="<?php echo base_url(); ?>images/logo.png" />
                                 <h4>The Easy Way to Find Accredited Online College Courses.</h4>
                         </div> -->
 						<div class="online-school">
